@@ -19,7 +19,7 @@
   <project path="packages/apps/ProximityRecalibrator" name="OpenDesireProject/android_packages_apps_ProximityRecalibrator" revision="cm-11.0" />
 
   <!-- Ace -->
-  <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_aceopt" revision="cm-11.0" />
+  <project path="device/htc/ace" name="Project-ReDesire/android_device_htc_aceopt" revision="cm-11.0" />
   <project path="vendor/htc/ace" name="OpenDesireProject/android_vendor_htc_ace" revision="cm-11.0" />
 
 </manifest>
